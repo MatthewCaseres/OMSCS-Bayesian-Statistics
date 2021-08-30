@@ -6,8 +6,14 @@ ISyE6420 by [Brani Vidakovic](https://www.isye.gatech.edu/users/brani-vidakovic)
 1. Install a [Chrome plugin](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima) to read math on GitHub directly.
 2. Use the VSCode Markdown previewer (supports math as of [version 1.58](https://github.com/microsoft/vscode-docs/blob/vnext/release-notes/v1_58.md#math-formula-rendering-in-the-markdown-preview)).
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Background](#background)
+  - [Classical vs. Bayesian Statistics](#classical-vs-bayesian-statistics)
+  - [FDA Guidance](#fda-guidance)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Background
 
