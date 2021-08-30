@@ -1,6 +1,6 @@
-# OMSCS-Bayesian-Statistics
+# Bayesian Statistics
 
-Bayesian Statistics for OMSCS
+ISyE6420 by [Brani Vidakovic](https://www.isye.gatech.edu/users/brani-vidakovic) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 # Background
 
