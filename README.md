@@ -2,6 +2,10 @@
 
 ISyE6420 by [Brani Vidakovic](https://www.isye.gatech.edu/users/brani-vidakovic) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
+**To read the math, either** 
+1. Install a [Chrome plugin](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima) to read math on GitHub directly.
+2. Use the VSCode Markdown previewer (supports math as of [version 1.58](https://github.com/microsoft/vscode-docs/blob/vnext/release-notes/v1_58.md#math-formula-rendering-in-the-markdown-preview)).
+
 # Background
 
 Professor Vidakovic gives details on the life and work of Reverand Thomas Bayes. I am not sure we will be tested on any of this, but the curious student can find details on [wikipedia](https://en.wikipedia.org/wiki/Thomas_Bayes).
