@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Bayesian Statistics](#bayesian-statistics)
+- [Background](#background)
+  - [Classical vs. Bayesian Statistics](#classical-vs-bayesian-statistics)
+  - [FDA Guidance](#fda-guidance)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Bayesian Statistics
 
 ISyE6420 by [Brani Vidakovic](https://www.isye.gatech.edu/users/brani-vidakovic) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
