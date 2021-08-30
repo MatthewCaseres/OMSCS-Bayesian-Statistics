@@ -11,7 +11,7 @@ ISyE6420 by [Brani Vidakovic](https://www.isye.gatech.edu/users/brani-vidakovic)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <details>
-<summary># Table of Contents</summary>
+<summary><h2>Table of Contents</h2></summary>
 
 - [Background](#background)
   - [Classical vs. Bayesian Statistics](#classical-vs-bayesian-statistics)
